@@ -14,4 +14,4 @@ performance gain.
 In this test you can see with your own eyes how an index on a boolean value 
 column shows a significant increase in performance in PostgreSQL database.     
 
-![](test/Screenshot_2021-10-07_16-49-17.png)
+![](https://raw.githubusercontent.com/vault-thirteen/postgresql_index_on_boolean_column/main/test/Screenshot_2021-10-07_16-49-17.png)
